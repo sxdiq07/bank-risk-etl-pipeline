@@ -1,0 +1,34 @@
+2025-07-11 16:36:53,591 - INFO - Validation started.
+2025-07-11 16:36:53,594 - INFO - Null values:
+Unnamed: 0        0
+Name              0
+MC_USD_Billion    0
+MC_GBP_Billion    0
+MC_INR_Billion    0
+MC_EUR_Billion    0
+2025-07-11 16:36:53,605 - INFO - Negative values:
+Empty DataFrame
+Columns: [Unnamed: 0, Name, MC_USD_Billion, MC_GBP_Billion, MC_INR_Billion, MC_EUR_Billion]
+Index: []
+2025-07-11 16:36:53,610 - INFO - Duplicate names:
+Empty DataFrame
+Columns: [Unnamed: 0, Name, MC_USD_Billion, MC_GBP_Billion, MC_INR_Billion, MC_EUR_Billion]
+Index: []
+2025-07-11 16:36:53,612 - INFO - Validation completed successfully.
+2025-07-11 16:40:24,989 - INFO - Validation started.
+2025-07-11 16:40:24,992 - INFO - Null values:
+Unnamed: 0        0
+Name              0
+MC_USD_Billion    0
+MC_GBP_Billion    0
+MC_INR_Billion    0
+MC_EUR_Billion    0
+2025-07-11 16:40:24,996 - INFO - Negative values:
+Empty DataFrame
+Columns: [Unnamed: 0, Name, MC_USD_Billion, MC_GBP_Billion, MC_INR_Billion, MC_EUR_Billion]
+Index: []
+2025-07-11 16:40:25,000 - INFO - Duplicate names:
+Empty DataFrame
+Columns: [Unnamed: 0, Name, MC_USD_Billion, MC_GBP_Billion, MC_INR_Billion, MC_EUR_Billion]
+Index: []
+2025-07-11 16:40:25,002 - INFO - Validation completed successfully.
